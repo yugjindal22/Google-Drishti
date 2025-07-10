@@ -1,4 +1,19 @@
-# Project Drishti – Agentic Event Safety System (Hackathon Build)
+# Project Drishti – Agentic Eve---
+
+## 👥 Team AgenticFlow
+
+**Team:** AgenticFlow - A team of driven developers building autonomous AI agents to tackle practical challenges — leveraging innovation, teamwork, and a strong problem-solving mindset, backed by our Smart India Hackathon 2024 win.
+
+### Team Members
+
+| Name                | Role        | Email                       |
+| ------------------- | ----------- | --------------------------- |
+| **Yug Jindal**      | Team Leader | yugjindal1234@gmail.com     |
+| **Rishbh Arora**    | Developer   | vsryarora6879@gmail.com     |
+| **Anjaneya Sharma** | Developer   | anjaneya.sharma25@gmail.com |
+| **Krrish Sehgal**   | Developer   | krrishsehgal03@gmail.com    |
+
+---
 
 > ⚠️ **Note:** This project is a work-in-progress, being built for the **Google Cloud Agentic AI Hackathon (July 2025)** under **Problem Statement 3 – Improving Safety at Large Public Events**.
 
