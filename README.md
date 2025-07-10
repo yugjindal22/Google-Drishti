@@ -1,4 +1,4 @@
-# Project Drishti – Agentic Eve---
+# Project Drishti
 
 ## 👥 Team AgenticFlow
 
